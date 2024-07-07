@@ -1,0 +1,22 @@
+.flag{
+    height: 270px;
+    width: 700px;
+}
+.red{
+    background-color: red;
+    height: 90px;
+    width: 700px;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+    height: 90px;
+    width: 700px;
+    text-align: center;
+}
+.green{
+    background-color: green;
+    height: 90px;
+    width: 700px;
+    text-align: center;
+}
